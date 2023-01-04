@@ -15,7 +15,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Amsterdam.
 
-- :telescope: I recently graduated the \</salt>\ JavaScript bootcamp and I am now part of the PGP program to further increase my skills!
+- :telescope: I recently graduated the \</salt> JavaScript bootcamp and I am now part of the PGP program to further increase my skills!
 
 - :zap: I am looking forward to my first assignment!
 
