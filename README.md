@@ -15,7 +15,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Amsterdam.
 
-- :telescope: I recently graduated the </salt> JavaScript bootcamp and I am now part of the PGP program to further increase my skills!
+- :telescope: I recently graduated the \</salt>\ JavaScript bootcamp and I am now part of the PGP program to further increase my skills!
 
 - :zap: I am looking forward to my first assignment!
 
@@ -45,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-dokratos&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dokratos&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokratos)](https://github.com/anuraghazra/github-readme-stats)
 
