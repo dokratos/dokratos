@@ -5,10 +5,6 @@
 
 ### Hi there 👋
 
- <a href="https://www.linkedin.com/in/iliana-scalco-712ab010a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-
 ---
 
 ### :woman_technologist: About Me :
@@ -18,6 +14,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I recently graduated the \</salt> JavaScript bootcamp and I am now part of the PGP program to further increase my skills!
 
 - :zap: I am looking forward to my first assignment!
+
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/iliana-scalco-712ab010a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
 
 
 ---
