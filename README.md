@@ -11,11 +11,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Amsterdam.
 
-- :telescope: I recently graduated the \</salt> JavaScript bootcamp and I am now part of the PGP program to further increase my skills!
+As a committed learner, I have embarked on a Java learning journey to broaden my programming repertoire. I am actively studying Java fundamentals, exploring object-oriented programming concepts, and diving into practical exercises and projects to deepen my understanding. I am excited about the potential of Java and eager to leverage its power in developing robust and scalable web applications.
 
-- :zap: I am looking forward to my first assignment!
-
-- 📫 How to find me:  <a href="https://www.linkedin.com/in/iliana-scalco-712ab010a/">
+- If you are looking for a web developer with a passion for continuous learning and a drive for excellence, let's connect!  <a href="https://www.linkedin.com/in/iliana-scalco-712ab010a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 
