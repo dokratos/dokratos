@@ -3,11 +3,15 @@
 
 ### Hi there 👋
 
+
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Amsterdam.
 
 As a committed learner, I have now embarked on a Java learning journey to broaden my programming repertoire. I am actively studying Java fundamentals, exploring object-oriented programming concepts, and diving into practical exercises and projects to deepen my understanding. I am excited about the potential of Java and eager to leverage its power in developing robust and scalable web applications.
 
-If you are looking for a web developer with a passion for continuous learning and a drive for excellence, let's connect!  <a href="https://www.linkedin.com/in/iliana-scalco-712ab010a/">
+If you are looking for a web developer with a passion for continuous learning and a drive for excellence, let's connect!  
+
+<a href="https://www.linkedin.com/in/iliana-scalco/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 
@@ -32,7 +36,7 @@ If you are looking for a web developer with a passion for continuous learning an
 </div>
 
 
----
+<!---
 
 ### :fire: My Stats :
 
@@ -40,7 +44,7 @@ If you are looking for a web developer with a passion for continuous learning an
 
 
 
-<!--
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dokratos)](https://git.io/streak-stats)
 **dokratos/dokratos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
